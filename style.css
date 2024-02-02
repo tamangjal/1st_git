@@ -1,0 +1,17 @@
+/* body{ */
+    background-color: aliceblue;
+}
+/* p{ */
+    color: red;
+    font: 40px;
+    background-color: antiquewhite;
+}
+#firstparagraph{
+    color: rgb(255, 251, 127);
+}
+.secondparagraph{
+    color: blue;
+}
+form{
+    background-color:skyblue;
+}
